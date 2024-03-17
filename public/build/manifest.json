@@ -1,0 +1,16 @@
+{
+  "resources/images/kiss.jpg": {
+    "file": "assets/kiss-e2656c12.jpg",
+    "src": "resources/images/kiss.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-911e262d.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-1bd03d06.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
